@@ -1,0 +1,8 @@
+{
+  "name": "is-frame",
+  "version": "1.0.0",
+  "license": "MIT",
+  "repo": "lvivier/is-frame",
+  "description": "Is the document in a frame?",
+  "scripts": ["index.js"]
+}
